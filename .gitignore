@@ -2,4 +2,4 @@
 **/*pyc
 **/*pycache*
 .temp/
-_data/**
+#_data/**
