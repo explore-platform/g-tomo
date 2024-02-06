@@ -1,3 +1,6 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
 title: G-Tomo
 message: >-
@@ -9,18 +12,20 @@ authors:
     family-names: Cox
     email: nick.cox@acri-st.fr
     affiliation: ACRI-ST
-    orcid: 'https://orcid.org/'
-identifiers:
-  - type: doi
-    value: 
-repository-code: 'https://gitlab.acri-cwa.fr/project-explore/sda-gtomo-mini'
+    orcid: 'https://orcid.org/0000-0002-7926-4492'
+repository-code: 'https://github.com/explore-platform/g-tomo'
 url: 'https://explore-platform.eu'
-repository: 'https://ascl.net/'
-repository-artifact: ''
-abstract: |-
-  The G-Tomo scientific data application provides 3 main services:
-  1) line-of-sight differential and cumulative extinction profiles (1D)
-  2) integrated extinction for given astrophysical coordinate+distance
+repository-artifact: 'https://explore-platform.eu/sda/g-tomo'
+abstract: >-
+  The G-Tomo scientific data application provides 3 main
+  services:
+
+  1) line-of-sight differential and cumulative extinction
+  profiles (1D)
+
+  2) integrated extinction for given astrophysical
+  coordinate+distance
+
   3) 2d slices of the 3d extinction data cube
 keywords:
   - extinction
@@ -28,4 +33,4 @@ keywords:
   - galactic
 license: Apache-2.0
 version: v2
-date-released: '2022-00-00'
+date-released: '2024-02-01'
