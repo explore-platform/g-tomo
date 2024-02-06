@@ -11,7 +11,7 @@
     "issueTracker": "https://github.com/explore-platform/g-tomo/issues",
     "name": "G-Tomo",
     "version": "2.0",
-    "identifier": "TBD",
+    "identifier": "",
     "description": "The G-Tomo scientific data application (SDA) created by the EXPLORE project allows users to extract 1d profiles and 2d maps from the latest 3d dust extinction maps based on Gaia eDR3 and 2MASS data (Lallement et al. 2022).\n",
     "applicationCategory": "Astronomy",
     "releaseNotes": "-\n",
