@@ -57,9 +57,6 @@
     "softwareRequirements": [
         "Visualiser"
         ],
-    "memoryRequirement": [
-        "2048 Mb"
-    ],
     "processorRequirement": [
         "2 cores"
     ],
