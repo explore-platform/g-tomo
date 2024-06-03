@@ -21,9 +21,7 @@
     "referencePublication": "https://doi.org/10.1051/0004-6361/202243319",
     "readme": "https://explore-platform.eu/sdas/about/gtomo",
     "softwareVersion": "2.0",
-    "citation": {
-       "@id": "https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.174V/abstract"
-       },
+    "citation": "https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.174V/abstract",
     "provider": {
        "@id": "https://explore-platform.eu",
        "@type": "Organization",
