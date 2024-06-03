@@ -10,7 +10,7 @@
     "downloadUrl": "https://github.com/explore-platform",
     "issueTracker": "https://github.com/explore-platform/g-tomo/issues",
     "name": "G-Tomo",
-    "version": "2.0",
+    "version": "2.0.0",
     "identifier": "https://doi.org/10.5281/zenodo.10405177",
     "description": "The G-Tomo scientific data application (SDA) created by the EXPLORE project allows users to extract 1d profiles and 2d maps from the latest 3d dust extinction maps based on Gaia eDR3 and 2MASS data (Lallement et al. 2022).\n",
     "applicationCategory": "Astronomy",
@@ -20,7 +20,7 @@
     "isPartOf": "https://explore-platform.eu",
     "referencePublication": "https://doi.org/10.1051/0004-6361/202243319",
     "readme": "https://explore-platform.eu/sdas/about/gtomo",
-    "softwareVersion": "2.0",
+    "softwareVersion": "2.0.0",
     "citation": "https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.174V/abstract",
     "provider": {
        "@id": "https://explore-platform.eu",
@@ -30,7 +30,8 @@
        },
     "funder": {
         "@type": "Organization",
-        "name": "European Commission"
+        "name": "European Commission",
+        "@id": "https://doi.org/10.13039/501100000780"
        },
     "copyrightHolder": {
         "@type": "Organization",
