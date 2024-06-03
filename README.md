@@ -5,6 +5,8 @@
 G-Tomo exposes the lastest Gaia eDR3 extinction cubes (Lallement et al. 2022, Vergely et al. 2022).
 In particular it provides a tool to extract 1D profiles and 2D maps.
 
+[![DOI](https://zenodo.org/badge/668681012.svg)](https://zenodo.org/doi/10.5281/zenodo.11454010)
+
 ## Software stack
 
 * Dash/plotly : front-end web dashboard
